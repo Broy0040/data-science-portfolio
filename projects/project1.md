@@ -91,6 +91,11 @@ The first part of this step needed to happen so that we could use the desired va
 
 ## 4. Visualizations and Insights
 
+![Remote Work Histogram](images/RemoteWorkHist.png)
+This histogram shows the distribution of remote work rates in counties across North Carolina.
+The graph is strongly right skewed showing that there are some major outliers that have higher remote work rates than the rest of the counties.
+We can see that most counties have somewhere between 5% and 12% remote work rates.
+
 
 
 
