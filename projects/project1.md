@@ -13,7 +13,7 @@
 
 ## 2. Data Description
 
-**Variables:** I chose a total of 6 Variables from the API.
+**Variables:** I chose a total of 3 Variables to focus on for this project.
   * Name: The name of the county that the data is describing
   * Remote Workers Percentage: The percentage of the workforce in a given county that do their work from home rather than a physical office. This is determined by taking the estimated total number of workers that worked from home and deviding it by the estimated total number of workers over 16 years old in a given county and multiplying that number by 100.
   * High Income Household Percentage: The proportion of households in a county whose annual household income exceeds $150,000. This is determined by adding the estimated number of households with an income between $150,000-$199,999 to the estimated number of households with an income greater than $200,000, then deviding that number by the estimated total number of households in the given county and multiplying it by 100.
