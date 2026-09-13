@@ -6,7 +6,7 @@
 
 **Context:** Since the Covid-19 pandemic there has been an increasing prevelance of people working from home across the United States. Remote work has transformed from a temporary solution to avoid getting sick to a permanent feature of the modern labor market. As higher income members of the workforce are attaining flexibility in where they live and work, there will be major impacts of local economies all over the country. I looked at this data to see trends among high income areas and their remote workers across North Carolina.
 
-**Relevance: ** This is important because there could be major impacts on local economies as workers, especially more affluent workers, can start living anywhere they want. Local governments could use this to determine possible plans to adapt to the changing working environment.
+**Relevance:** This is important because there could be major impacts on local economies as workers, especially more affluent workers, can start living anywhere they want. Local governments could use this to determine possible plans to adapt to the changing working environment.
 
 
 ---
