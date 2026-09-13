@@ -127,7 +127,7 @@ The visual analysis answers the research question by showing a strong positive c
 
 ## Jupyter Notebook, Citations, and AI Transparency
 
-[Jupyter Notebook File](../notebooks/project1.html)
+[Jupyter Notebook File](../notebooks/Project1.html)
 
 ### Citations & References
 United States Census Bureau. (2022, December 6). American Community Survey 5-Year Data (2009-2017). Census.Gov. https://www.census.gov/data/developers/data-sets/acs-5year.html
