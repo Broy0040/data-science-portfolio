@@ -33,7 +33,7 @@ United States Census Bureau. (2022, December 6). American Community Survey 5-Yea
 ## 3. Data Cleaning and Preparation
 
 ### The first step was to load the data with my chosen variables into a pandas dataframe
-'''python
+```python
 variables = ",".join( {
     "NAME",         #County Name
     "B08301_001E",  #Total Workforce (Ages 16 and Older)
@@ -49,26 +49,26 @@ response = requests.get(url)
 data = response.json()
 df = pd.DataFrame(data[1:], columns=data[0])
 df.head()
-'''
+```
 
 ### The next step is to check for null variables
-'''python
+```python
 df.isnull().sum()
-'''
+```
 There were no missing variables in any of the data so there was no need to drop any data
 
 ### After that I checked the data types of my variables and set the necessary variables to numeric variables
-'''python
+```python
 df.dtypes
 
 numeric_cols=['B08301_021E', 'B08301_001E', 'B19001_001E', 'B19001_017E', 'B19001_015E']
 
 for col in numeric_cols:
     df[col] = pd.to_numeric(df[col], errors="coerce")
-'''
+```
 
 ### The final step in preparing the data was to combine the base variables into the desired variables and rename the variables to look nicer
-'''python
+```python
 df['Remote_Work_Pct'] = (df['B08301_021E'] / df['B08301_001E']) * 100
 
 df['High_Income_Pct'] = ((df['B19001_015E'] + df['B19001_017E']) / df['B19001_001E']) * 100
@@ -82,7 +82,7 @@ df = df.rename(columns={
     })
 
 df.head()
-'''
+```
 The first part of this step needed to happen so that we could use the desired variable stated in the data description section.
 
 
