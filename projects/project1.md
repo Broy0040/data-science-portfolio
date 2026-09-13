@@ -127,4 +127,13 @@ The visual analysis answers the research question by showing a strong positive c
 
 ## Jupyter Notebook, Citations, and AI Transparency
 
-[Jupyter Notebook File]
+[Jupyter Notebook File](../notebooks/project1.html)
+
+### Citations & References
+United States Census Bureau. (2022, December 6). American Community Survey 5-Year Data (2009-2017). Census.Gov. https://www.census.gov/data/developers/data-sets/acs-5year.html
+
+### AI Usage Disclosure
+Google Gemini was used as a code debugger and writing assistant to help create this project:
+
+* **Code Debugging & Structuring:** Assisted in syntax troubleshooting and data processing steps
+* **Text Formatting & Editing:** Provided help in structuring the GitHub file and helped refine descriptions for the graphs.
