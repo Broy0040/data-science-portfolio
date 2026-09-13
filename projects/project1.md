@@ -92,25 +92,39 @@ The first part of this step needed to happen so that we could use the desired va
 ## 4. Visualizations and Insights
 
 ![Remote Work Histogram](../images/RemoteWorkHist.png)
+
 This histogram shows the distribution of remote work rates in counties across North Carolina.
 The graph is strongly right skewed showing that there are some major outliers that have higher remote work rates than the rest of the counties.
 We can see that most counties have somewhere between 5% and 12% remote work rates.
 
 ![Remote Work Percentage vs. High Income Percentage](../images/Remote_Work_vs_High_Income.png)
 
+This scatter plot shows the relationship between the percentage of remote workers and the percentage of high income households in counties in North Carolina.
+There is a clear positive linear correlation between the two variables. There is also a large cluster between the 5%-15% high income ratio and 5%-12% remote work ratio.
+
 
 ---
 
 ## 5. Conclusion
 
+The visual analysis answers the research question by showing a strong positive correlation between the percentage of remote workers and high income households in counties across North Carolina. The graphs show that while remote work is prevalent most counties are still between 5% and 12% remote working rates. There are however some counties that have much higher work from home rates reaching nearly 30%. It would be incorrect, however, to assume that this means that because of the high income prevalence that more people work from home. Correlation does not mean causation because the reason for the high correlation might be because of another feature that I did not represent such as the type of industries that are in certain counties.
 
 
 ---
 
 ## 6. Limitations, Ethics, and Reflection
 
+**Limitations:** As I mentioned in the conclusion there could be many other features that affect this correlation such as the major industries in the counties. For example, banking is a major industry in Mecklenburg county and most of those jobs are white collar jobs. As a result lots of people in Mecklenburg county can probably work from home. However some outer banks counties might have fishing as their biggest industry, and it is impossible to fish from home unless you live on a boat.
 
+**Biases:** 
+  * **Selection Bias:** This is a self reported survey meaning that certain groups might be underrepresented such as people living in rural areas
+  * **Measurement Bias:** Worked from home is a tricky term because lots of people are hybrid workers meaning they both go into the office and work from home which could cause confusion when answering the survey.
+  * **Sampling Bias:** The populations vary from county to county so since every count is weighed the same rural counties might skew the data because one person in a rural county is worth more than one person in an urban county in the data.
+
+**Reflection:** If I had more time I could use data from the whole country and not just North Carolina which would give a greater understanding of the issue on a national level. Another improvement I could implement is adding control variables that would help show the true relationship such as industries. I could also show more of a story by taking data from before Covid-19 and after Covid-19 to show how much remote work has changed.
 
 ---
 
 ## Jupyter Notebook, Citations, and AI Transparency
+
+[Jupyter Notebook File]
