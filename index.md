@@ -14,4 +14,4 @@ I am a second year student at UNC Charlotte from Huntersville, North Carolina. I
 ---
 ## LinkedIn & Resume
 - [LinkedIn](https://www.linkedin.com/in/brandon-roy-6365a5430/)
-- [Resume](Resume_1.md)
+- [Resume](Resume_1.pdf)
