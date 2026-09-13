@@ -8,6 +8,6 @@ I am a second year student at UNC Charlotte from Huntersville, North Carolina. I
 
 ---
 ## Portfolio
-- [**Blog**](blog.md)
-- [**Projects**](projects.md)
+- [Blog](blog.md)
+- [Projects](projects.md)
 
