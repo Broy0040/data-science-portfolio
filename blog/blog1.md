@@ -1,4 +1,4 @@
-# Blog 1 
+# About Me
 Hi! I’m Brandon Roy, and I'm a Data Science and Mathematics for Business student at the University of North Carolina at Charlotte with a 4.0 GPA. My path in data science is built on a passion for using mathematical modeling, statistics, and analytics to solve practical real-world problems. I love taking complex datasets and translating them into clear, actionable insights that help organizations make better business decisions.
 
 On the technical side, I work primarily with Python, Java, Pandas, Matplotlib, Seaborn, and Excel to explore data and build visualizations. But for me, data science isn't just about writing code or crunching numbers in an isolated environment. Communication and teamwork are just as important as the quantitative side of the field.
