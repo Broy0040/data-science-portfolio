@@ -3,3 +3,6 @@ This section documents my data science projects, research questions, and data st
 ---
 ## [Project 1](projects/project1.md)
 
+---
+## [Project 1](projects/project2.md)
+
