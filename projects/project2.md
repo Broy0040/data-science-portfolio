@@ -33,8 +33,8 @@ Staff. (2026, March 11). Is It Easy to Actually Predict the Outcomes of College 
 
 ## 3. Data Description
 
-**Data Source:** The data used in this project is from the [College Football Game Stats | 2002 to January 2026]((https://www.kaggle.com/datasets/cviaxmiwnptr/college-football-team-stats-2002-to-january-2024/data))
-cviaxmiwnptr. (2026, January 22). College Football Game Stats | 2002 to January 2026. Kaggledatasets. https://www.kaggle.com/datasets/cviaxmiwnptr/college-football-team-stats-2002-to-january-2024
+**Data Source:** The data used in this project is from the [College Football Game Stats 2002 to January 2026]((https://www.kaggle.com/datasets/cviaxmiwnptr/college-football-team-stats-2002-to-january-2024/data))
+cviaxmiwnptr. (2026, January 22). College Football Game Stats 2002 to January 2026. Kaggledatasets. https://www.kaggle.com/datasets/cviaxmiwnptr/college-football-team-stats-2002-to-january-2024
 
 **Dataset Characteristics:**
   **Data Representation:** Each row of data represents one game of college football.
@@ -52,7 +52,7 @@ cviaxmiwnptr. (2026, January 22). College Football Game Stats | 2002 to January 
 
 ## 4. Data Understanding and Exploration
 
-### Import the Necessary libraries and load in the data
+### Import the Necessary Libraries and Load in the Data
 ```python
 import pandas as pd
 import numpy as np
@@ -68,7 +68,7 @@ from sklearn.metrics import classification_report, precision_recall_curve, f1_sc
 df = pd.read_csv('../data/cfb_box-scores_2002-2025.csv')
 ```
 
-### Perform some initial EDA
+### Perform Initial EDA
 ```python
 df.head()
 
