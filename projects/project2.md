@@ -34,6 +34,7 @@ Staff. (2026, March 11). Is It Easy to Actually Predict the Outcomes of College 
 ## 3. Data Description
 
 **Data Source:** The data used in this project is from the [College Football Game Stats 2002 to January 2026]((https://www.kaggle.com/datasets/cviaxmiwnptr/college-football-team-stats-2002-to-january-2024/data))
+
 cviaxmiwnptr. (2026, January 22). College Football Game Stats 2002 to January 2026. Kaggledatasets. https://www.kaggle.com/datasets/cviaxmiwnptr/college-football-team-stats-2002-to-january-2024
 
 **Dataset Characteristics:**
