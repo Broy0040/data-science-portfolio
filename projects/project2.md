@@ -311,7 +311,7 @@ My model that I created did not perform very well which is not something too une
 
 ## Jupyter Notebook, Citations, and AI Transparency
 
-[Jupyter Notebook File](../Project_1.html)
+[Jupyter Notebook File](../Project_2.html)
 
 ### Citations & References
 
